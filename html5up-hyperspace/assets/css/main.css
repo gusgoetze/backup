@@ -2029,7 +2029,7 @@
 			input[type="button"]:hover:active,
 			button:hover:active,
 			.button:hover:active {
-				border-color: #ffffff !important;
+				border-color: #ffb6b6 !important;
 			}
 
 				input[type="submit"]:hover:active:after,
